@@ -1,0 +1,23 @@
+-------------------------------------------------
+|NO|		NAME		| |    STATUS	|
+-------------------------------------------------
+|1 | Make scematic		| | 	ok	|
+|2 | Design PCB			| | 	ok	|
+|3 | Write code			| | 	ok	|
+|4 | Construct this shit	| | 	ok	|
+|5 | Test this shit		| | 	ok	|
+|-----------------------------------------------|
+|		Finded errors			|
+|-----------------------------------------------|
+|1 | Mirrored ISCP connector	| | Replaced	|
+|  | on PCB			| | 		|
+|  |				| | 		|
+|2 | Redundant potentiometer	| | Removed	|
+|  |				| | 		|
+|3 | So difficult and 		| | Removed	|
+|  | not reliable analog 	| | any		|
+|  | circuits			| | components	|
+|-----------------------------------------------|
+
+Total status - 100%
+ok
